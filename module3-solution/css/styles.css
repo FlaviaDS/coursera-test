@@ -52,3 +52,6 @@
 h1.text-center {
 	font-family: 'Lora', sans-serif;
 }
+.navbar-default .navbar-nav > li > a {
+	color: white;
+}
